@@ -1,0 +1,17 @@
+﻿cachetools==4.2.2
+click==8.0.0
+colorama==0.4.4
+ConfigArgParse==1.4.1
+Flask==2.0.0
+frozendict==2.0.2
+iiif==1.0.10
+iiif-prezi==0.3.0
+itsdangerous==2.0.0
+Jinja2==3.0.0
+lxml==4.6.3
+MarkupSafe==2.0.0
+Pillow==8.2.0
+PyLD==2.0.3
+PyMuPDF==1.18.13
+python-magic==0.4.22
+Werkzeug==2.0.0
